@@ -1,0 +1,15 @@
+<layout id="WatchFace">
+    <label id="TimeLabel" x="center" y="center" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+
+    <label id="StepStatsDisplay" text="00000" x="110" y="60" font="Graphics.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+
+    <label id="DatePlaceholder" font="Graphics.FONT_SMALL" />
+    <drawable id="DateDisplay" class="DateControl">
+    	<param name="text">"00/00/00"</param>
+    	<param name="font">Graphics.FONT_SMALL</param>      	           
+        <param name="color">Gfx.COLOR_BLACK</param>
+        <param name="justification">Gfx.TEXT_JUSTIFY_CENTER</param>
+        <param name="offsetYFromCenter">30</param>        
+    </drawable>   
+
+</layout>

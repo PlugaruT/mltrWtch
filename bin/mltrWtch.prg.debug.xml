@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/tudor/Projects/mltrWtch/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="1" lineNum="8" parent="globals/DateControl" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="1" lineNum="9" parent="globals/DateControl" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="1" lineNum="11" parent="globals/DateControl" pc="268435480" symbol="initialize"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="1" lineNum="12" parent="globals/DateControl" pc="268435504" symbol="initialize"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="1" lineNum="13" parent="globals/DateControl" pc="268435528" symbol="initialize"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="1" lineNum="14" parent="globals/DateControl" pc="268435552" symbol="initialize"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="1" lineNum="15" parent="globals/DateControl" pc="268435576" symbol="initialize"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="2" lineNum="18" parent="globals/DateControl" pc="268435601" symbol="draw"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="2" lineNum="19" parent="globals/DateControl" pc="268435605" symbol="draw"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="2" lineNum="20" parent="globals/DateControl" pc="268435624" symbol="draw"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="2" lineNum="21" parent="globals/DateControl" pc="268435637" symbol="draw"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="2" lineNum="23" parent="globals/DateControl" pc="268435647" symbol="draw"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="2" lineNum="25" parent="globals/DateControl" pc="268435660" symbol="draw"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="2" lineNum="27" parent="globals/DateControl" pc="268435688" symbol="draw"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="2" lineNum="28" parent="globals/DateControl" pc="268435701" symbol="draw"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="2" lineNum="29" parent="globals/DateControl" pc="268435727" symbol="draw"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="2" lineNum="30" parent="globals/DateControl" pc="268435743" symbol="draw"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="2" lineNum="31" parent="globals/DateControl" pc="268435759" symbol="draw"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="3" lineNum="35" parent="globals/DateControl" pc="268435789" symbol="setDate"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="3" lineNum="36" parent="globals/DateControl" pc="268435793" symbol="setDate"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="4" lineNum="39" parent="globals/DateControl" pc="268435804" symbol="setDatePlaceholder"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="4" lineNum="40" parent="globals/DateControl" pc="268435808" symbol="setDatePlaceholder"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="5" lineNum="3" parent="globals/DateControl" pc="268437180" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/DateControl.mc" id="5" lineNum="3" parent="globals/DateControl" pc="268437180" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="7" lineNum="12" parent="globals/mltrWtchView" pc="268435819" symbol="initialize"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="7" lineNum="13" parent="globals/mltrWtchView" pc="268435823" symbol="initialize"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="8" lineNum="17" parent="globals/mltrWtchView" pc="268435842" symbol="onLayout"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="8" lineNum="18" parent="globals/mltrWtchView" pc="268435846" symbol="onLayout"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="9" lineNum="24" parent="globals/mltrWtchView" pc="268435884" symbol="onShow"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="10" lineNum="28" parent="globals/mltrWtchView" pc="268435889" symbol="onUpdate"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="10" lineNum="30" parent="globals/mltrWtchView" pc="268435893" symbol="onUpdate"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="10" lineNum="31" parent="globals/mltrWtchView" pc="268435910" symbol="onUpdate"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="10" lineNum="32" parent="globals/mltrWtchView" pc="268435984" symbol="onUpdate"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="10" lineNum="33" parent="globals/mltrWtchView" pc="268436008" symbol="onUpdate"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="10" lineNum="35" parent="globals/mltrWtchView" pc="268436022" symbol="onUpdate"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="10" lineNum="36" parent="globals/mltrWtchView" pc="268436034" symbol="onUpdate"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="10" lineNum="38" parent="globals/mltrWtchView" pc="268436046" symbol="onUpdate"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="11" lineNum="44" parent="globals/mltrWtchView" pc="268436067" symbol="onHide"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="12" lineNum="48" parent="globals/mltrWtchView" pc="268436072" symbol="onExitSleep"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="13" lineNum="52" parent="globals/mltrWtchView" pc="268436077" symbol="onEnterSleep"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="14" lineNum="55" parent="globals/mltrWtchView" pc="268436082" symbol="&lt;globals/mltrWtchView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="14" lineNum="56" parent="globals/mltrWtchView" pc="268436086" symbol="&lt;globals/mltrWtchView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="14" lineNum="57" parent="globals/mltrWtchView" pc="268436110" symbol="&lt;globals/mltrWtchView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="14" lineNum="58" parent="globals/mltrWtchView" pc="268436144" symbol="&lt;globals/mltrWtchView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="14" lineNum="59" parent="globals/mltrWtchView" pc="268436163" symbol="&lt;globals/mltrWtchView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="14" lineNum="60" parent="globals/mltrWtchView" pc="268436196" symbol="&lt;globals/mltrWtchView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="14" lineNum="61" parent="globals/mltrWtchView" pc="268436272" symbol="&lt;globals/mltrWtchView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="15" lineNum="64" parent="globals/mltrWtchView" pc="268436287" symbol="&lt;globals/mltrWtchView/&lt;&gt;setStepStats&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="15" lineNum="65" parent="globals/mltrWtchView" pc="268436291" symbol="&lt;globals/mltrWtchView/&lt;&gt;setStepStats&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="15" lineNum="67" parent="globals/mltrWtchView" pc="268436315" symbol="&lt;globals/mltrWtchView/&lt;&gt;setStepStats&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="15" lineNum="68" parent="globals/mltrWtchView" pc="268436347" symbol="&lt;globals/mltrWtchView/&lt;&gt;setStepStats&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="15" lineNum="70" parent="globals/mltrWtchView" pc="268436379" symbol="&lt;globals/mltrWtchView/&lt;&gt;setStepStats&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="15" lineNum="71" parent="globals/mltrWtchView" pc="268436427" symbol="&lt;globals/mltrWtchView/&lt;&gt;setStepStats&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="16" lineNum="10" parent="globals/mltrWtchView" pc="268437161" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchView.mc" id="16" lineNum="10" parent="globals/mltrWtchView" pc="268437161" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchApp.mc" id="18" lineNum="7" parent="globals/mltrWtchApp" pc="268436442" symbol="initialize"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchApp.mc" id="18" lineNum="8" parent="globals/mltrWtchApp" pc="268436446" symbol="initialize"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchApp.mc" id="19" lineNum="12" parent="globals/mltrWtchApp" pc="268436465" symbol="onStart"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchApp.mc" id="20" lineNum="16" parent="globals/mltrWtchApp" pc="268436470" symbol="onStop"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchApp.mc" id="21" lineNum="20" parent="globals/mltrWtchApp" pc="268436475" symbol="getInitialView"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchApp.mc" id="21" lineNum="21" parent="globals/mltrWtchApp" pc="268436479" symbol="getInitialView"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchApp.mc" id="22" lineNum="5" parent="globals/mltrWtchApp" pc="268437112" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchApp.mc" id="22" lineNum="5" parent="globals/mltrWtchApp" pc="268437112" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchApp.mc" id="23" lineNum="25" parent="globals" pc="268436517" symbol="getApp"/>
+        <entry filename="/Users/tudor/Projects/mltrWtch/source/mltrWtchApp.mc" id="23" lineNum="26" parent="globals" pc="268436529" symbol="getApp"/>
+        <entry filename="Rez" id="25" lineNum="2" parent="globals/Rez/Drawables" pc="268437155" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="26" lineNum="6" parent="globals/Rez/Fonts" pc="268437157" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="27" lineNum="8" parent="globals/Rez/JsonData" pc="268437159" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="28" lineNum="17" parent="globals/Rez/Layouts" pc="268436546" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="19" parent="globals/Rez/Layouts" pc="268436558" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="20" parent="globals/Rez/Layouts" pc="268436721" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="21" parent="globals/Rez/Layouts" pc="268436867" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="22" parent="globals/Rez/Layouts" pc="268436934" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="24" parent="globals/Rez/Layouts" pc="268437063" symbol="WatchFace"/>
+        <entry filename="Rez" id="29" lineNum="10" parent="globals/Rez/Layouts" pc="268437158" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="30" lineNum="29" parent="globals/Rez/Menus" pc="268437156" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="31" lineNum="31" parent="globals/Rez/Strings" pc="268437160" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="32" lineNum="1" parent="globals/Rez" pc="268437131" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="32" lineNum="1" parent="globals/Rez" pc="268437131" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="8389346" symbol="text"/>
+        <entry field="true" id="18" symbol="offsetYFromCenter"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="16" method="true" symbol="&lt;globals/mltrWtchView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="19" symbol="datePlaceholder"/>
+        <entry field="true" id="15" symbol="AppName"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="21" method="true" symbol="setDatePlaceholder"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="11" object="true" symbol="mltrWtchApp"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="8389348" symbol="font"/>
+        <entry id="13" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="8389349" symbol="justification"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="14" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="17" method="true" symbol="&lt;globals/mltrWtchView/&lt;&gt;setStepStats&gt;"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="10" object="true" symbol="mltrWtchView"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="20" method="true" symbol="setDate"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389347" symbol="color"/>
+        <entry id="12" module="true" symbol="Layouts"/>
+        <entry id="9" object="true" symbol="DateControl"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435600" name="params" stackId="1" startPc="268435456"/>
+        <entry endPc="268435787" name="deviceWidth" stackId="3" startPc="268435605"/>
+        <entry endPc="268435787" name="yPosition" stackId="5" startPc="268435605"/>
+        <entry endPc="268435787" name="centerY" stackId="2" startPc="268435605"/>
+        <entry endPc="268435787" name="halfWidth" stackId="4" startPc="268435605"/>
+        <entry arg="true" endPc="268435788" name="dc" stackId="1" startPc="268435601"/>
+        <entry arg="true" endPc="268435803" name="date" stackId="1" startPc="268435789"/>
+        <entry arg="true" endPc="268435818" name="newPlaceHolder" stackId="1" startPc="268435804"/>
+        <entry arg="true" endPc="268435883" name="dc" stackId="1" startPc="268435842"/>
+        <entry endPc="268436065" name="timeView" stackId="4" startPc="268435893"/>
+        <entry endPc="268436065" name="timeString" stackId="3" startPc="268435893"/>
+        <entry endPc="268436065" name="clockTime" stackId="2" startPc="268435893"/>
+        <entry arg="true" endPc="268436066" name="dc" stackId="1" startPc="268435889"/>
+        <entry endPc="268436285" name="date" stackId="3" startPc="268436086"/>
+        <entry endPc="268436285" name="now" stackId="2" startPc="268436086"/>
+        <entry endPc="268436285" name="dateDisplay" stackId="1" startPc="268436086"/>
+        <entry endPc="268436285" name="dateString" stackId="4" startPc="268436086"/>
+        <entry endPc="268436440" name="steps" stackId="2" startPc="268436291"/>
+        <entry endPc="268436440" name="stepsStatsString" stackId="4" startPc="268436291"/>
+        <entry endPc="268436440" name="stepsGoal" stackId="3" startPc="268436291"/>
+        <entry endPc="268436440" name="stepStatsDisplay" stackId="1" startPc="268436291"/>
+        <entry arg="true" endPc="268436469" name="state" stackId="1" startPc="268436465"/>
+        <entry arg="true" endPc="268436474" name="state" stackId="1" startPc="268436470"/>
+        <entry endPc="268437109" name="rez_cmp_local_text_DatePlaceholder" stackId="4" startPc="268436558"/>
+        <entry endPc="268437109" name="rez_cmp_local_custom_drawable_DateDisplay" stackId="5" startPc="268436558"/>
+        <entry endPc="268437109" name="rez_cmp_local_text_StepStatsDisplay" stackId="3" startPc="268436558"/>
+        <entry endPc="268437109" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268436558"/>
+        <entry arg="true" endPc="268437110" name="dc" stackId="1" startPc="268436546"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/mltrWtchApp" offset="166" parentId="globals" symbolId="mltrWtchApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="237" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="316" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="355" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="386" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="417" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="456" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="487" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/mltrWtchView" offset="526" parentId="globals" symbolId="mltrWtchView" type="class"/>
+        <dataEntry label="globals/DateControl" offset="637" parentId="globals" symbolId="DateControl" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435600" name="initialize" parent="DateControl" startPc="268435456">
+            <param id="params"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435788" name="draw" parent="DateControl" startPc="268435601">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435803" name="setDate" parent="DateControl" startPc="268435789">
+            <param id="date"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435818" name="setDatePlaceholder" parent="DateControl" startPc="268435804">
+            <param id="newPlaceHolder"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437198" name="&lt;init&gt;" parent="DateControl" startPc="268437180">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435841" name="initialize" parent="mltrWtchView" startPc="268435819">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435883" name="onLayout" parent="mltrWtchView" startPc="268435842">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435888" name="onShow" parent="mltrWtchView" startPc="268435884">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436066" name="onUpdate" parent="mltrWtchView" startPc="268435889">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436071" name="onHide" parent="mltrWtchView" startPc="268436067">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436076" name="onExitSleep" parent="mltrWtchView" startPc="268436072">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436081" name="onEnterSleep" parent="mltrWtchView" startPc="268436077">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436286" name="&lt;globals/mltrWtchView/&lt;&gt;setDateDisplay&gt;" parent="mltrWtchView" startPc="268436082">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436441" name="&lt;globals/mltrWtchView/&lt;&gt;setStepStats&gt;" parent="mltrWtchView" startPc="268436287">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437179" name="&lt;init&gt;" parent="mltrWtchView" startPc="268437161">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436464" name="initialize" parent="mltrWtchApp" startPc="268436442">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436469" name="onStart" parent="mltrWtchApp" startPc="268436465">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436474" name="onStop" parent="mltrWtchApp" startPc="268436470">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436516" name="getInitialView" parent="mltrWtchApp" startPc="268436475">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437130" name="&lt;init&gt;" parent="mltrWtchApp" startPc="268437112">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436545" name="getApp" startPc="268436517">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437155" name="&lt;init&gt;" parent="Drawables" startPc="268437155">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437157" name="&lt;init&gt;" parent="Fonts" startPc="268437157">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437159" name="&lt;init&gt;" parent="JsonData" startPc="268437159">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437110" name="WatchFace" parent="Layouts" startPc="268436546">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437158" name="&lt;init&gt;" parent="Layouts" startPc="268437158">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437156" name="&lt;init&gt;" parent="Menus" startPc="268437156">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437160" name="&lt;init&gt;" parent="Strings" startPc="268437160">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437154" name="&lt;init&gt;" parent="Rez" startPc="268437131">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
