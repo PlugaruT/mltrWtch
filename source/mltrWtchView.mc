@@ -3,7 +3,7 @@ import Toybox.Lang;
 import Toybox.System;
 import Toybox.WatchUi;
 import Toybox.ActivityMonitor;
-import Toybox.Time.Gregorian;
+
 using Toybox.Time.Gregorian as Date;
 using Toybox.ActivityMonitor as Mon;
 
@@ -31,6 +31,7 @@ class mltrWtchView extends WatchUi.WatchFace {
         setTimeDisplay();
         setDateDisplay();
         setStepStats();
+        
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
     }
@@ -61,7 +62,7 @@ class mltrWtchView extends WatchUi.WatchFace {
     	dateDisplay.setDatePlaceholder(View.findDrawableById("DatePlaceholder"));      
     	var now = Time.now();
 		var date = Date.info(now, Time.FORMAT_LONG);
-		var dateString = Lang.format("$1$ $2$, $3$", [date.month, date.day, date.year]);		
+		var dateString = Lang.format("$1$ $2$ $3$", [date.day, date.month, date.year]);		
 		dateDisplay.setDate(dateString);	    			
     }
 
@@ -71,7 +72,7 @@ class mltrWtchView extends WatchUi.WatchFace {
         var steps = Mon.getInfo().steps.toString();
         var stepsGoal = Mon.getInfo().stepGoal.toString();
         
-        var stepsStatsString = Lang.format("$1$/$2$", [steps, stepsGoal]);
+        var stepsStatsString = Lang.format("$1$/$2$", ["12999", stepsGoal]);
         stepStatsDisplay.setText(stepsStatsString);
 
     }

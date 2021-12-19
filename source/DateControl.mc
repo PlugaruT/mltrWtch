@@ -15,7 +15,7 @@ class DateControl extends Ui.Drawable {
         offsetYFromCenter = params.get(:offsetYFromCenter);       
     }
 
-    function draw(dc) {
+    function draw(dc as Dc) {
     	var centerY = dc.getHeight() / 2;
 		var deviceWidth = dc.getWidth();
 		var halfWidth = deviceWidth / 2;					

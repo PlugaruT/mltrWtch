@@ -1,0 +1,12 @@
+<fonts>
+    <!-- <font id="font_32" filename="font_32.fnt" filter="0123456789:" /> -->
+    <font id="font_xtiny" filename="font_xtiny.fnt"/>
+    <font id="font_tiny" filename="font_tiny.fnt"/>
+    <font id="font_small" filename="font_small.fnt"/>
+    <font id="font_medium" filename="font_medium.fnt"/>
+    <font id="font_medium_plus" filename="font_medium_plus.fnt"/>
+    <font id="font_number_mild" filename="font_number_mild.fnt"/>
+    <font id="font_number_medium" filename="font_number_medium.fnt"/>
+    <font id="font_hot" filename="font_hot.fnt"/>
+    <font id="font_thai_hot" filename="font_thai_hot.fnt"/>
+</fonts>
